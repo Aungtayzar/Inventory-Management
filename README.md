@@ -19,6 +19,8 @@ The front-end is a single-page application built with React and Vite.
 -   Vite
 -   Tailwind CSS
 -   React Query
+-   React Form Hook
+-   React Hot Toast
 -   ESLint
 
 ### Setup and Installation
@@ -50,7 +52,6 @@ The back-end is a RESTful API built with Laravel.
 
 -   PHP 8.2
 -   Laravel 12
--   Sanctum (for API authentication)
 
 ### Setup and Installation
 
